@@ -3,8 +3,8 @@
 ### Martín Palomares García
 
 # Incluye 
-Tarea M.1 (archivos ipynb y pdf)
-Tarea M.3 (archivos ipynb)
+#### Tarea M.1 (archivos ipynb y pdf)
+#### Tarea M.3 (archivos ipynb)
 
 # Información 
 #### Aqui se subiran todas las tareas realizadas individualmente con el fin de no crear muchos repositorios basura.
